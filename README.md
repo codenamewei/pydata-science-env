@@ -42,7 +42,7 @@ helloworld/
 │   ├── hello.md
 │   └── world.md
 │
-├── helloworld/ (some do src/helloworld)
+├── helloworld/ (some do src/helloworld, some do src/)
 │   ├── __init__.py
 │   ├── runner.py
 │   ├── hello/
