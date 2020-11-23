@@ -6,6 +6,21 @@
 conda env create -f config.yml
 ```
 
+**Conda create yml file from an existing environment**
+```
+conda env export --file config.yml
+```
+
+**Conda activate an environment**
+```
+conda activate python-dev-env
+```
+
+**Conda deactivate an environment**
+```
+conda deactivate
+```
+
 **Conda list all environments available**
 ```
 conda env list
