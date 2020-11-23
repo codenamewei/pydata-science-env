@@ -1,7 +1,7 @@
 # [Miniconda](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
 
 
-**Conda create environment from yml file**
+**Conda create an environment from yml file**
 ```
 conda env create -f config.yml
 ```
@@ -13,10 +13,10 @@ conda env list
 
 **Conda remove environment**
 ```
-conda remove --name format-converter-env --all
+conda remove --name python-dev-env --all
 ```
 
-** _config.yml_ Skeleton Structure**
+**_config.yml_ Skeleton Structure**
 ```
 name: python-dev-env
 channels:
