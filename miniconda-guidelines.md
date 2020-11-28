@@ -26,6 +26,11 @@ conda deactivate
 conda env list
 ```
 
+**Conda list all packages in an environment**
+```
+conda list -n python-dev-env
+```
+
 **Conda remove environment**
 ```
 conda remove --name python-dev-env --all
