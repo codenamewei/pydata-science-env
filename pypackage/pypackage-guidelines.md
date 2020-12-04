@@ -13,5 +13,7 @@ import database import *
 ```
 
 **Rather than**
+```
 from database.insertion import *
 from database.schema import *
+```
