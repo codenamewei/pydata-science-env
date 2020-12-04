@@ -1,8 +1,8 @@
 ## Pypackage Guidelines
 To make a folder into a package   
 
-## __init__.py (from subfolder example __database__)
 ```
+__init__.py (from subfolder example: database)
 from .file1 import *
 from .file2 import *
 ```
