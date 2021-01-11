@@ -16,3 +16,13 @@ Project/
 |--tests/
 |
 ```
+
+### setup.py  
+Package and distribution management.
+
+### requirements.txt
+pip requirements file
+Example
+```
+pip install -r requirements.txt
+```
