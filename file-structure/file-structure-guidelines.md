@@ -26,3 +26,8 @@ Example
 ```
 pip install -r requirements.txt
 ```
+
+### config.yml
+```
+conda env create -f config.yml
+```
