@@ -36,7 +36,6 @@ helloworld/
 ```
 helloworld/
 │
-├── bin/
 │
 ├── docs/
 │   ├── hello.md
