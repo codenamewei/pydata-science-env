@@ -45,7 +45,8 @@ helloworld/
 │   └── world/
 │       ├── helpers_tests.py
 │       └── world_tests.py
-│
+|
+├── setup.py
 ├── .gitignore
 ├── LICENSE
 └── README.md
